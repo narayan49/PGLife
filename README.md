@@ -1,2 +1,2 @@
 # PGLife
-made a website for fresher or salaried person looking for room in affordable price, privides one point solution
+made a website for student  or salaried person looking for room/apartment  in affordable price, privides one point solution.
